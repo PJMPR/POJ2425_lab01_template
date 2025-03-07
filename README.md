@@ -52,16 +52,30 @@
 **Opis:**         Użytkownik wprowadza z klawiatury liczbę kotów, które posiada pani Ala.
         Napisz program który poprawnie wyświetli zdanie typu 'Ala ma kota'
 
-- *Przykład:* dla liczby 1 - "Ala ma jednego kota"
+- *Przykład:* 
+			dla liczby 1 - "Ala ma jednego kota"
+
             dla liczby 2 - "Ala ma 2 koty"
+			
             dla liczby 9 - "Ala ma 9 kotów"
+			
             dla liczby 23 - "Ala ma 23 koty"
+			
             dla liczby 25 - "Ala ma 25 kotów"
+			
             dla liczby 11 - "Ala ma 11 kotów"
+			
             dla liczby 12 - "Ala ma 12 kotów"
+			
             dla liczby 16 - "Ala ma 16 kotów"
+			
             dla liczby 21 - "Ala ma 21 kotów"
+			
             dla liczby 23 - "Ale ma 23 koty"
+			
             dla liczby 26 - "Ale ma 26 kotów"
+			
             dla liczby 112 - "Ale ma 112 kotów"
+			
             dla liczby 1123 - "Ale ma 1123 koty"
+			
