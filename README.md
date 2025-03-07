@@ -1,5 +1,3 @@
-# **Zaawansowane zadania na pierwsze laboratorium z Javy**
-
 ## **1. Operacje na liczbach i warunki (`if-else`, `switch`)**
 
 ### **Zadanie 1.1 – Liczba doskonała**
