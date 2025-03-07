@@ -48,7 +48,7 @@
 **Opis:** Napisz funkcję rekurencyjną, która oblicza **silnię** liczby `n`.
 - *Przykład:* `5! = 5 × 4 × 3 × 2 × 1 = 120`
 
-### **Zadanie 4.2 – Ciąg Fibonacciego rekurencyjnie**
+### **Zadanie 4.2 – Koty Ali**
 **Opis:**         Użytkownik wprowadza z klawiatury liczbę kotów, które posiada pani Ala.
         Napisz program który poprawnie wyświetli zdanie typu 'Ala ma kota'
 
